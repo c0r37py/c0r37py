@@ -1,7 +1,5 @@
 
-# <span style="color:9DE069"> 🧑🏻‍🦱 Intro </span>
-
-# <span style="color:9DE069"> ⛏️ Tech Stacks </span>
+# <span style="color:9DE069"> ⛏️ PROFILE </span>
 
 ### Main Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
